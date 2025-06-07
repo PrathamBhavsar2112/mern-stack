@@ -17,9 +17,17 @@ const sampleProducts = [
     id: 3,
     name: 'Laptop',
     description: '14-inch Full HD display, 256GB SSD',
-    image: 'https://res.cloudinary.com/da3w329cx/image/upload/v1683056499/cld-sample-3.jpg',
+    image: 'https://images.unsplash.com/photo-1603791440384-56cd371ee9a7',
     price: '$600',
   },
+  {
+    id: 4,
+    name: 'Bluetooth Speaker',
+    description: 'Portable speaker with deep bass and 12-hour playtime',
+    image: 'https://res.cloudinary.com/da3w329cx/image/upload/v1683056499/cld-sample-3.jpg',
+    price: '$45',
+  },
+
 ];
 
 export default sampleProducts;
